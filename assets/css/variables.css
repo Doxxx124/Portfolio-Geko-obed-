@@ -1,0 +1,63 @@
+:root{
+
+    /* ===== COLORS ===== */
+
+    --color-background:#0F172A;
+    --color-surface:#1E293B;
+    --color-surface-hover:#334155;
+
+    --color-primary:#3B82F6;
+    --color-primary-hover:#2563EB;
+
+    --color-text:#F8FAFC;
+    --color-text-light:#CBD5E1;
+
+    --color-border:rgba(255,255,255,.08);
+
+
+
+    /* ===== TYPOGRAPHY ===== */
+
+    --font-family:"Inter",sans-serif;
+
+    --fs-xs:.75rem;
+    --fs-sm:.875rem;
+    --fs-md:1rem;
+    --fs-lg:1.125rem;
+    --fs-xl:1.5rem;
+    --fs-2xl:2.5rem;
+    --fs-3xl:4rem;
+
+
+
+    /* ===== SPACING ===== */
+
+    --space-xs:.5rem;
+    --space-sm:1rem;
+    --space-md:1.5rem;
+    --space-lg:2rem;
+    --space-xl:3rem;
+    --space-2xl:5rem;
+
+
+
+    /* ===== RADIUS ===== */
+
+    --radius-sm:.5rem;
+    --radius-md:.75rem;
+    --radius-lg:1rem;
+    --radius-xl:1.5rem;
+
+
+
+    /* ===== SHADOW ===== */
+
+    --shadow:0 15px 40px rgba(0,0,0,.25);
+
+
+
+    /* ===== TRANSITION ===== */
+
+    --transition:.25s ease;
+
+}
